@@ -62,12 +62,12 @@ scale="2 2 2">
 <script>
 
 let slides = [
-"slide1.jpg",
-"slide2.jpg",
-"slide3.jpg"
-"slide4.jpg"
-"slide5.jpg"
-"slide6.jpg"
+"slide1.png",
+"slide2.png",
+"slide3.png"
+"slide4.png"
+"slide5.png"
+"slide6.png"
 ];
 
 let current = 0;
